@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-10 20:24:27
+/* Smarty version 3.1.32, created on 2018-11-18 09:19:14
   from 'C:\xampp\htdocs\prestashop1740\admin285xkxgxy\themes\default\template\controllers\modules\modal_translation.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5be7306b626f42_32043393',
+  'unifunc' => 'content_5bf120828d9042_07388425',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5be7306b626f42_32043393 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bf120828d9042_07388425 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal-body">
 	<div class="input-group">
 		<button type="button" class="btn btn-default dropdown-toggle" tabindex="-1" data-toggle="dropdown">

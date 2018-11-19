@@ -3,6 +3,85 @@
   <component name="ChangeListManager">
     <list default="true" id="63c376ba-82c0-4257-a0f4-290dc5b114ea" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/defines.inc.php" afterPath="$PROJECT_DIR$/config/defines.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/default_country_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" afterPath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/gamification/data/data_EN_TND_TN.json" afterPath="$PROJECT_DIR$/modules/gamification/data/data_EN_TND_TN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/repairshop/repairshop.php" afterPath="$PROJECT_DIR$/modules/repairshop/repairshop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/repairshop/sql/install.php" afterPath="$PROJECT_DIR$/modules/repairshop/sql/install.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/repairshop/sql/uninstall.php" afterPath="$PROJECT_DIR$/modules/repairshop/sql/uninstall.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/dev/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/00/d4/01/00d401f6848c3922f2cda7a28f4d5aa770bf5bfc_0.file.content-legacy.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/00/d4/01/00d401f6848c3922f2cda7a28f4d5aa770bf5bfc_0.file.content-legacy.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/2d/64/ed/2d64ed92edb5ccbedb8d5cf26359b7838f26dded_0.file.configuration_bar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/2d/64/ed/2d64ed92edb5ccbedb8d5cf26359b7838f26dded_0.file.configuration_bar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/3a/53/b5/3a53b5f17d25aaa779b1532a5311bb91909e293b_0.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/3a/53/b5/3a53b5f17d25aaa779b1532a5311bb91909e293b_0.file.page_header_toolbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/3f/86/a1/3f86a1e4fd81d102f1c8cffdc2c66893ee35edc2_0.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/3f/86/a1/3f86a1e4fd81d102f1c8cffdc2c66893ee35edc2_0.file.search_form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/46/c1/30/46c13051c1457f5fdc4a36126476909fe0755346_0.file.layout.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/46/c1/30/46c13051c1457f5fdc4a36126476909fe0755346_0.file.layout.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/5a/cd/f2/5acdf29b162ef1c87215f8696af5a4068b47b2f7_0.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/5a/cd/f2/5acdf29b162ef1c87215f8696af5a4068b47b2f7_0.file.login_addons.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/62/66/b4/6266b458b7492991d087b8480fe6fae368f55748_0.file.end.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/62/66/b4/6266b458b7492991d087b8480fe6fae368f55748_0.file.end.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/6d/a0/3b/6da03bc8456dc653e5c254e4c4a287456c15138a_0.file.modal_not_trusted.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/6d/a0/3b/6da03bc8456dc653e5c254e4c4a287456c15138a_0.file.modal_not_trusted.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/71/42/9f/71429f51ae74b95334150af74f6d236879d72501_0.file.welcome.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/71/42/9f/71429f51ae74b95334150af74f6d236879d72501_0.file.welcome.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/72/76/7f/72767f3278ce01281c7f8e0bbf6d6d9129860095_0.file.configure.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/72/76/7f/72767f3278ce01281c7f8e0bbf6d6d9129860095_0.file.configure.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/7f/94/5b/7f945b997646f0a196efca2b1b1c76bc5dea9952_0.file.modal.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/7f/94/5b/7f945b997646f0a196efca2b1b1c76bc5dea9952_0.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/8b/21/44/8b21449afe47ded1f774ffb76ba2315e21317213_0.file.configure.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/8b/21/44/8b21449afe47ded1f774ffb76ba2315e21317213_0.file.configure.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/8c/22/c6/8c22c6834c64dba07fd36628540f0eb5feb80060_0.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/8c/22/c6/8c22c6834c64dba07fd36628540f0eb5feb80060_0.file.javascript.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/8f/b6/18/8fb61894b4887cac7ef3288c4ac5bf8c2ee7c2c3_0.file.modal_not_trusted_country.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/8f/b6/18/8fb61894b4887cac7ef3288c4ac5bf8c2ee7c2c3_0.file.modal_not_trusted_country.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/a4/66/c1/a466c1da480dce8012a01d16214240ca015080c2_0.file.modal_translation.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/a4/66/c1/a466c1da480dce8012a01d16214240ca015080c2_0.file.modal_translation.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/a8/e1/f2/a8e1f23e217508bde30d30152a9c5652908a2af0_0.file.modal.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/a8/e1/f2/a8e1f23e217508bde30d30152a9c5652908a2af0_0.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/be/75/96/be759641b11732a32cf17541ffb12a501566cc4b_0.file.header.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/be/75/96/be759641b11732a32cf17541ffb12a501566cc4b_0.file.header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/d0/03/5f/d0035fb70078478f60d4423172c5e8d971be55fc_0.file.footer.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/d0/03/5f/d0035fb70078478f60d4423172c5e8d971be55fc_0.file.footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/dd/72/8c/dd728c6c1a3297504267696abc73af482c2c3db9_0.file.notification_bt.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/dd/72/8c/dd728c6c1a3297504267696abc73af482c2c3db9_0.file.notification_bt.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/smarty/compile/f2/0d/c7/f20dc789d343b117e5409811b6a82736f9f0a856_0.file.nav.tpl.php" afterPath="$PROJECT_DIR$/var/cache/dev/smarty/compile/f2/0d/c7/f20dc789d343b117e5409811b6a82736f9f0a856_0.file.nav.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/doctrine/89/5b35333638346139313662653338363965383763663763303164656430613337305d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/prod/doctrine/89/5b35333638346139313662653338363965383763663763303164656430613337305d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/var/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/13/33/e1/1333e1cdcea64a401acd4face780cee41520a923_0.file.dashboard_zone_one.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/13/33/e1/1333e1cdcea64a401acd4face780cee41520a923_0.file.dashboard_zone_one.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/18/71/a5/1871a5b3d4ab94236abd901dbc72577a0f9b6b70_0.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/18/71/a5/1871a5b3d4ab94236abd901dbc72577a0f9b6b70_0.file.javascript.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/1e/74/0b/1e740b1d91d92a79458fb58d40d444be0373ea31_0.file.calendar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/1e/74/0b/1e740b1d91d92a79458fb58d40d444be0373ea31_0.file.calendar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/20/5c/3e/205c3ef8722d033162f7def3853abff7cffbf8bb_0.file.error_messages.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/20/5c/3e/205c3ef8722d033162f7def3853abff7cffbf8bb_0.file.error_messages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2a/29/bc/2a29bcd2fae1e18bf100ecb6f2c0baf4261e4001_0.file.shop_list.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2a/29/bc/2a29bcd2fae1e18bf100ecb6f2c0baf4261e4001_0.file.shop_list.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2d/12/c3/2d12c35327be430361a6a5f2c9c2578b8d014bee_0.file.layout.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2d/12/c3/2d12c35327be430361a6a5f2c9c2578b8d014bee_0.file.layout.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2d/25/a1/2d25a1c34c4b09b9f93993d84dda080246186ac5_0.file.dashboard_zone_one.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/2d/25/a1/2d25a1c34c4b09b9f93993d84dda080246186ac5_0.file.dashboard_zone_one.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/37/3f/d0/373fd0e7ea686e548b9c73a19851c478a16add19_0.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/37/3f/d0/373fd0e7ea686e548b9c73a19851c478a16add19_0.file.login_addons.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/3a/53/b5/3a53b5f17d25aaa779b1532a5311bb91909e293b_0.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/3a/53/b5/3a53b5f17d25aaa779b1532a5311bb91909e293b_0.file.page_header_toolbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/3f/86/a1/3f86a1e4fd81d102f1c8cffdc2c66893ee35edc2_0.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/3f/86/a1/3f86a1e4fd81d102f1c8cffdc2c66893ee35edc2_0.file.search_form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/41/01/23/41012361b910111971644cc0da5f28517687f443_0.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/41/01/23/41012361b910111971644cc0da5f28517687f443_0.file.dashboard_zone_two.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/43/6a/42/436a420cdd4efa4623f31c8c42f434f417066fa8_0.file.footer.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/43/6a/42/436a420cdd4efa4623f31c8c42f434f417066fa8_0.file.footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/46/98/d1/4698d1a24080cdeeae6a113b1761dccc95c13735_0.file.content.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/46/98/d1/4698d1a24080cdeeae6a113b1761dccc95c13735_0.file.content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/46/c1/30/46c13051c1457f5fdc4a36126476909fe0755346_0.file.layout.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/46/c1/30/46c13051c1457f5fdc4a36126476909fe0755346_0.file.layout.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/4c/ea/78/4cea78977ab6e022e806a6b40f8707724c643958_0.file.notifications_center.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/4c/ea/78/4cea78977ab6e022e806a6b40f8707724c643958_0.file.notifications_center.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/52/1b/1b/521b1b714d1fd236e8c0f335d1b88c8c307374ae_0.file.view.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/52/1b/1b/521b1b714d1fd236e8c0f335d1b88c8c307374ae_0.file.view.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/58/f0/9b/58f09b4db696d438f064ec73a54580fb3631f3c0_0.file.confirmation_messages.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/58/f0/9b/58f09b4db696d438f064ec73a54580fb3631f3c0_0.file.confirmation_messages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/5a/cd/f2/5acdf29b162ef1c87215f8696af5a4068b47b2f7_0.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/5a/cd/f2/5acdf29b162ef1c87215f8696af5a4068b47b2f7_0.file.login_addons.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/60/27/ad/6027adb619b3cd9777ee722b33c07098e16a82bb_0.file.warning_messages.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/60/27/ad/6027adb619b3cd9777ee722b33c07098e16a82bb_0.file.warning_messages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/60/3d/aa/603daa6d73eb21d45bce5810ac7df63098182da7_0.file.end.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/60/3d/aa/603daa6d73eb21d45bce5810ac7df63098182da7_0.file.end.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/62/66/b4/6266b458b7492991d087b8480fe6fae368f55748_0.file.end.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/62/66/b4/6266b458b7492991d087b8480fe6fae368f55748_0.file.end.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/71/42/9f/71429f51ae74b95334150af74f6d236879d72501_0.file.welcome.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/71/42/9f/71429f51ae74b95334150af74f6d236879d72501_0.file.welcome.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/78/20/6b/78206b3877ea39f755c0f1c3bd31c6999239c40a_0.file.information_messages.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/78/20/6b/78206b3877ea39f755c0f1c3bd31c6999239c40a_0.file.information_messages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/79/ee/73/79ee73189337cb0e511839159c2870ee164a978e_0.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/79/ee/73/79ee73189337cb0e511839159c2870ee164a978e_0.file.page_header_toolbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/7a/9e/7e/7a9e7ec1816f961edf29532625a825bc9bb513d9_0.file.modal.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/7a/9e/7e/7a9e7ec1816f961edf29532625a825bc9bb513d9_0.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/7d/17/2c/7d172c32570481c196b5208fb66272f173feabfc_0.file.nav_bar.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/7d/17/2c/7d172c32570481c196b5208fb66272f173feabfc_0.file.nav_bar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/7f/94/5b/7f945b997646f0a196efca2b1b1c76bc5dea9952_0.file.modal.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/7f/94/5b/7f945b997646f0a196efca2b1b1c76bc5dea9952_0.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/81/57/f9/8157f9bb82c91923b07498ae1f715783954c03c2_0.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/81/57/f9/8157f9bb82c91923b07498ae1f715783954c03c2_0.file.dashboard_zone_two.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/81/8e/8b/818e8bb6934e0dabadf3f761d0f0cfe6fd3550fd_0.file.header.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/81/8e/8b/818e8bb6934e0dabadf3f761d0f0cfe6fd3550fd_0.file.header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/89/8f/35/898f357b9e874246e2f445fc08f002e77401a5de_0.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/89/8f/35/898f357b9e874246e2f445fc08f002e77401a5de_0.file.search_form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/8c/22/c6/8c22c6834c64dba07fd36628540f0eb5feb80060_0.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/8c/22/c6/8c22c6834c64dba07fd36628540f0eb5feb80060_0.file.javascript.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/8d/e5/14/8de514e2397750e43c448093325bf3edb884777e_0.file.employee_dropdown.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/8d/e5/14/8de514e2397750e43c448093325bf3edb884777e_0.file.employee_dropdown.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/a8/e1/f2/a8e1f23e217508bde30d30152a9c5652908a2af0_0.file.modal.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/a8/e1/f2/a8e1f23e217508bde30d30152a9c5652908a2af0_0.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/b0/5a/2c/b05a2c56bde84a6cee5786e842cf72ea4a799300_0.file.form.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/b0/5a/2c/b05a2c56bde84a6cee5786e842cf72ea4a799300_0.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/be/75/96/be759641b11732a32cf17541ffb12a501566cc4b_0.file.header.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/be/75/96/be759641b11732a32cf17541ffb12a501566cc4b_0.file.header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/c4/a7/bb/c4a7bbfa56b4510db6838c7c522d0649ee53cd48_0.file.config.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/c4/a7/bb/c4a7bbfa56b4510db6838c7c522d0649ee53cd48_0.file.config.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/d0/03/5f/d0035fb70078478f60d4423172c5e8d971be55fc_0.file.footer.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/d0/03/5f/d0035fb70078478f60d4423172c5e8d971be55fc_0.file.footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/d9/0d/e8/d90de8aa1337bed3befcf5168a88db75254b4cc3_0.file.dashboard_zone_two.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/d9/0d/e8/d90de8aa1337bed3befcf5168a88db75254b4cc3_0.file.dashboard_zone_two.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/dd/53/dc/dd53dcdded53ce391c94b33de80aacd48f8b8971_0.file.quick_access.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/dd/53/dc/dd53dcdded53ce391c94b33de80aacd48f8b8971_0.file.quick_access.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/dd/72/8c/dd728c6c1a3297504267696abc73af482c2c3db9_0.file.notification_bt.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/dd/72/8c/dd728c6c1a3297504267696abc73af482c2c3db9_0.file.notification_bt.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f0/6f/27/f06f273cb1200047ada4f0b3e09d418f5fae1e39_0.file.welcome.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f0/6f/27/f06f273cb1200047ada4f0b3e09d418f5fae1e39_0.file.welcome.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f2/08/6c/f2086c0dadabc48db31f5ca072be6712f00673d5_0.file.repairs.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f2/08/6c/f2086c0dadabc48db31f5ca072be6712f00673d5_0.file.repairs.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f2/0d/c7/f20dc789d343b117e5409811b6a82736f9f0a856_0.file.nav.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f2/0d/c7/f20dc789d343b117e5409811b6a82736f9f0a856_0.file.nav.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f2/c6/42/f2c6428aa8165f973faf182ea2f4bba63973021c_0.file.content.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/f2/c6/42/f2c6428aa8165f973faf182ea2f4bba63973021c_0.file.content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/prod/smarty/compile/fe/d8/97/fed89723dcaa6f9f6299362de0803e2f8b125916_0.file.non-responsive.tpl.php" afterPath="$PROJECT_DIR$/var/cache/prod/smarty/compile/fe/d8/97/fed89723dcaa6f9f6299362de0803e2f8b125916_0.file.non-responsive.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/prod.log" afterPath="$PROJECT_DIR$/var/logs/prod.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +96,7 @@
       <file leaf-file-name="AdminRepairsController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/repairshop/controllers/admin/AdminRepairsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="340">
               <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding>
                 <element signature="e#6#284#0#PHP" expanded="true" />
@@ -26,22 +105,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="install.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/install.php">
+      <file leaf-file-name="uninstall.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/uninstall.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <marker date="1541929590185" expanded="true" signature="168:213" ph="DROP TABLE I... " />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uninstall.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/uninstall.php">
+      <file leaf-file-name="install.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/install.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#95#0#PHP" expanded="true" />
+                <marker date="1542528907059" expanded="true" signature="123:663" ph="CREATE TABLE... IF" />
+                <marker date="1542528907059" expanded="true" signature="676:729" ph="ALTER TABLE `repairs`... " />
+                <marker date="1542528907059" expanded="true" signature="676:734" ph="ALTER TABLE `${_DB_PREFIX_}repairs`... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,8 +135,8 @@
       <file leaf-file-name="repairshop.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/repairshop/repairshop.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1411">
-              <caret line="91" column="25" lean-forward="false" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+            <state relative-caret-position="595">
+              <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -75,11 +161,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/modules/repairshop/views/templates/admin/repairs/repairs.tpl" />
-        <option value="$PROJECT_DIR$/config/defines.inc.php" />
         <option value="$PROJECT_DIR$/modules/repairshop/controllers/admin/AdminRepairsController.php" />
-        <option value="$PROJECT_DIR$/modules/repairshop/repairshop.php" />
-        <option value="$PROJECT_DIR$/modules/repairshop/sql/uninstall.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/modules/repairshop/sql/uninstall.php" />
+        <option value="$PROJECT_DIR$/modules/repairshop/repairshop.php" />
+        <option value="$PROJECT_DIR$/config/defines.inc.php" />
+        <option value="$PROJECT_DIR$/modules/repairshop/sql/install.php" />
       </list>
     </option>
   </component>
@@ -94,10 +181,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1374" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,6 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,10 +230,62 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop1740" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop1740" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repairshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop1740" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop1740" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repairshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sql" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop1740" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prestashop1740" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,26 +387,29 @@
       <option name="presentableId" value="Default" />
       <updated>1541877426772</updated>
       <workItem from="1541877428420" duration="3893000" />
-      <workItem from="1541923772389" duration="3414000" />
+      <workItem from="1541923772389" duration="7154000" />
+      <workItem from="1541932628703" duration="1245000" />
+      <workItem from="1542526664049" duration="2552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7307000" />
+    <option name="totallyTimeSpent" value="14844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2579425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2655068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30875576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -296,6 +440,120 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1541929590185" expanded="true" signature="168:213" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="68" lean-forward="false" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+          <folding>
+            <element signature="e#6#95#0#PHP" expanded="true" />
+            <marker date="1542528907059" expanded="true" signature="123:663" ph="CREATE TABLE... IF" />
+            <marker date="1542528907059" expanded="true" signature="676:729" ph="ALTER TABLE `repairs`... " />
+            <marker date="1542528907059" expanded="true" signature="676:734" ph="ALTER TABLE `${_DB_PREFIX_}repairs`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/repairshop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/views/templates/admin/repairs/repairs.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/controllers/admin/AdminRepairsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="e#6#284#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1541929590185" expanded="true" signature="168:213" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="68" lean-forward="false" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+          <folding>
+            <element signature="e#6#95#0#PHP" expanded="true" />
+            <marker date="1542528907059" expanded="true" signature="123:663" ph="CREATE TABLE... IF" />
+            <marker date="1542528907059" expanded="true" signature="676:729" ph="ALTER TABLE `repairs`... " />
+            <marker date="1542528907059" expanded="true" signature="676:734" ph="ALTER TABLE `${_DB_PREFIX_}repairs`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/views/templates/admin/repairs/repairs.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/repairshop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/controllers/admin/AdminRepairsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#284#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modules/repairshop/repairshop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
@@ -316,22 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="324" column="20" lean-forward="false" selection-start-line="324" selection-start-column="20" selection-end-line="324" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/repairshop/views/templates/admin/repairs/repairs.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -351,14 +593,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/repairshop/config_fr.xml" />
     <entry file="file://$PROJECT_DIR$/modules/repairshop/config.xml" />
-    <entry file="file://$PROJECT_DIR$/modules/repairshop/repairshop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="91" column="25" lean-forward="false" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Edoshop_module/modules/opartdevis/controllers/admin/AdminOpartdevisController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -366,9 +600,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="39" column="7" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Developped Apps/prestashop modules/repairshop/sql/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/views/templates/admin/repairs/repairs.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modules/repairshop/controllers/admin/AdminRepairsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="340">
           <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="e#6#284#0#PHP" expanded="true" />
@@ -376,27 +632,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/install.php">
+    <entry file="file://E:/Developped Apps/prestashop modules/repairshop/repairshop.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="39" column="7" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="484">
+          <caret line="61" column="9" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="61" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/uninstall.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1541929590185" expanded="true" signature="168:213" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Developped Apps/prestashop modules/repairshop/sql/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/repairshop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/repairshop/sql/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#95#0#PHP" expanded="true" />
+            <marker date="1542528907059" expanded="true" signature="123:663" ph="CREATE TABLE... IF" />
+            <marker date="1542528907059" expanded="true" signature="676:729" ph="ALTER TABLE `repairs`... " />
+            <marker date="1542528907059" expanded="true" signature="676:734" ph="ALTER TABLE `${_DB_PREFIX_}repairs`... " />
+          </folding>
         </state>
       </provider>
     </entry>

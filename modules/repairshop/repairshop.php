@@ -30,11 +30,25 @@ class Repairshop extends Module
 
     public function install()
     {
+        $sql = array();
+        include(dirname(__FILE__).'/sql/install.php');
+        foreach ($sql as $s) {
+            if (!Db::getInstance()->execute($s)) {
+                return false;
+            }
+        }
         return parent::install() && $this->registerHook('top') && $this->registerHook('header') && $this->createTabLink() ;
     }
 
     public function uninstall()
     {
+        $sql = array();
+        include(dirname(__FILE__).'/sql/uninstall.php');
+        foreach ($sql as $s) {
+            if (!Db::getInstance()->execute($s)) {
+                return false;
+            }
+        }
         return parent::uninstall();
     }
 
